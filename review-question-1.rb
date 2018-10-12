@@ -1,6 +1,5 @@
 ## QUESTION 1
-
-pokemon = [
+Pokemon = [
   {
     "id": 1,
     "name": "bulbasaur",
